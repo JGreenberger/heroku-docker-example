@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brunolm/heroku-docker-example.git"
+    "url": "git+https://github.com/JGreenberger/heroku-docker-example.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/brunolm/heroku-docker-example/issues"
+    "url": "https://github.com/JGreenberger/heroku-docker-example/issues"
   },
-  "homepage": "https://github.com/brunolm/heroku-docker-example#readme",
+  "homepage": "https://github.com/JGreenberger/heroku-docker-example#readme",
   "dependencies": {
     "@types/node": "^8.0.28",
     "ts-node": "^3.3.0",
